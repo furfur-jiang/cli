@@ -1,5 +1,7 @@
 自定义脚手架,cli文件进行配置
 
+注意：若是window系统，请使用git bash执行。
+
 使用说明：
 1. npm install
 2. npm link  //在generator-fur文件夹下执行，把仓库链接到本地，可以通过npm unlink解除
